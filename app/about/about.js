@@ -12,6 +12,7 @@ function aboutCrtl($scope,aboutFac){
 	aboutFac.doGreet();
 }
 
+
 /* Model */
 module_about.factory('aboutFac',aboutFac);
 function aboutFac(){
